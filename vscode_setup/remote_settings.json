@@ -1,0 +1,24 @@
+{
+  "workbench.colorTheme": "Catppuccin Macchiato",
+
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,    
+    "**/node_modules/*/**": true,
+    "/usr/local/**": true,
+    "/scratch/**": true
+  },
+ 
+  "search.followSymlinks": false,
+ 
+  "search.exclude": {    
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,    
+    "**/node_modules/*/**": true,
+    "/usr/local/**": true,
+    "/scratch/**": true
+  },
+  
+  "workbench.iconTheme": "material-icon-theme"
+}
+

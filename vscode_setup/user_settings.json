@@ -1,0 +1,58 @@
+{
+  "git.confirmSync": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.multiCursorModifier": "alt",
+  "cSpell.language": "en-GB",
+  "workbench.editor.openSideBySideDirection": "down",
+  // R settings
+  "r.rterm.mac": "/usr/local/bin/R",
+  "r.lsp.enabled": true,
+  "r.lsp.debug": true,
+  "r.session.watchGlobalEnvironment": true,
+  "r.session.levelOfObjectDetail": "detailed",
+  "r.bracketedPaste": true,
+  "terminal.integrated.env.osx": {
+    "R_HOME": "/Library/Frameworks/R.framework/Resources"
+  },
+  "files.associations": {
+    "*.qmd": "markdown"
+  },
+  "editor.wordWrap": "on",
+  "explorer.confirmDragAndDrop": false,
+  "remote.SSH.remotePlatform": {
+    "*.gitpod.io": "linux",
+    "vsc_setonix": "linux",
+    "*.gitpod.local": "linux",
+    "*.gitpod.remote": "linux"
+  },
+  "remote.SSH.defaultExtensions": [
+    "gitpod.gitpod-remote-ssh"
+  ],
+  "dev.containers.defaultExtensions": [
+    "gitpod.gitpod-remote-ssh"
+  ],
+  "[r]": {
+      "editor.formatOnSave": true
+  },
+  "redhat.telemetry.enabled": false,
+  "git.enableSmartCommit": true,
+  "editor.minimap.enabled": false,
+  "git.openRepositoryInParentFolders": "never",
+  "python.createEnvironment.trigger": "off",
+  "workbench.editor.enablePreview": false,
+  "remote.SSH.lockfilesInTmp": true,
+  "terminal.external.osxExec": "iTerm.app",
+  "githubPullRequests.pullBranch": "never",
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "remote.SSH.remoteServerListenOnSocket": true,
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "explorer.confirmDelete": false,
+  "workbench.iconTheme": "material-icon-theme"
+}
+
