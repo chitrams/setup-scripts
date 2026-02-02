@@ -10,6 +10,7 @@ pacman::p_load(
   data.table,
   dtplyr,
   tidyverse,
+  purrr,
 
   # Modelling
   tidymodels,
